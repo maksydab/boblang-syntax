@@ -21,33 +21,24 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#505050"
      inkscape:zoom="32"
-     inkscape:cx="12.28125"
-     inkscape:cy="5.90625"
+     inkscape:cx="9"
+     inkscape:cy="10.15625"
      inkscape:window-width="1920"
      inkscape:window-height="1007"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg1" />
-  <rect
-     x="2.3925879"
-     y="1.9305904"
-     width="12.089824"
-     height="12.013819"
-     rx="1.7634039"
-     fill="#2ea043"
-     id="rect1"
-     style="fill:#e9b109;fill-opacity:1;stroke-width:0.860838" />
   <text
      xml:space="preserve"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.89618px;font-family:'Nimbus Roman';-inkscape-font-specification:'Nimbus Roman, ';writing-mode:lr-tb;direction:ltr;fill:#000000;stroke:#000000;stroke-width:0.19099;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;paint-order:stroke fill markers"
-     x="7.9074602"
-     y="9.9382935"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5192px;font-family:'Nimbus Roman';-inkscape-font-specification:'Nimbus Roman, ';writing-mode:lr-tb;direction:ltr;fill:#ffa911;fill-opacity:1;stroke:#ffa911;stroke-width:0.225834;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+     x="10.181201"
+     y="12.855806"
      id="text1"
      transform="scale(0.95810806,1.0437236)"><tspan
        id="tspan1"
-       x="7.9074602"
-       y="9.9382935"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.89618px;font-family:'Nimbus Roman';-inkscape-font-specification:'Nimbus Roman, ';stroke-width:0.19099;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;paint-order:stroke fill markers"
+       x="10.181201"
+       y="12.855806"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5192px;font-family:'Nimbus Roman';-inkscape-font-specification:'Nimbus Roman, ';fill:#ffa911;fill-opacity:1;stroke:#ffa911;stroke-width:0.225834;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
        sodipodi:role="line">B</tspan></text>
 </svg>
