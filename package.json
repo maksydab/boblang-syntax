@@ -1,0 +1,57 @@
+{
+  "name": "boblang-syntax",
+  "displayName": "Boblang",
+  "description": "Syntax support for boblang",
+  "version": "0.0.1",
+  "publisher": "maksydab",
+  "engines": {
+    "vscode": "^1.75.0"
+  },
+  "categories": [
+    "Programming Languages"
+  ],
+  "activationEvents": [
+    "onLanguage:bob"
+  ],
+  "main": "./src/extension.js",
+  "contributes": {
+    "languages": [
+      {
+        "id": "bob",
+        "aliases": [
+          "Boblang",
+          "bob"
+        ],
+        "extensions": [
+          ".bob"
+        ],
+        "configuration": "./language-configuration.json",
+        "icon": {
+          "light": "./icons/bob-light.svg",
+          "dark": "./icons/bob-dark.svg"
+        }
+      }
+    ],
+    "grammars": [
+      {
+        "language": "bob",
+        "scopeName": "source.boblang",
+        "path": "./syntaxes/bob.tmLanguage.json"
+      }
+    ],
+    "commands": [
+      {
+        "command": "boblang.restartLsp",
+        "title": "Boblang: Restart Language Server"
+      }
+    ],
+    "semanticTokenColors": {
+      "variable.import": "#2ea043",
+      "variable.import.unused": "#2ea04359"
+    }
+  },
+  "dependencies": {
+    "@vscode/vsce": "^3.9.2",
+    "vscode-languageclient": "^10.1.0"
+  }
+}
