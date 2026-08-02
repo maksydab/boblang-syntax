@@ -2,3 +2,4 @@ node_modules
 *.vsix
 .env
 .boblang/
+.boblang/runtime
