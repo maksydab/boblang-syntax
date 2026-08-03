@@ -51,7 +51,11 @@
 				},
 				{
 					"name": "support.function.bob",
-					"match": "\\b(print)\\b"
+					"match": "\\b(print|js_call)\\b"
+				},
+				{
+					"name": "support.function.bob",
+					"match": "\\bjs\\.([a-zA-Z_][a-zA-Z0-9_]*)"
 				},
 				{
 					"name": "storage.type.return.bob",

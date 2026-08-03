@@ -4,13 +4,13 @@ const path = require('path');
 const KW = new Set([
   'func','function','class','if','elif','elseif','else','while','for','in',
   'return','break','pass','import','export','private','try','except',
-  'and','or','not','True','False','nil','as','self',
+  'and','or','not','True','False','nil','as','self','js',
   'end','do','then',
 ]);
 
 const BUILTINS = [
   'print','input','int','float','str','bool','bigi','bigf','type','len',
-  'range','min','max','clamp','ascii','chr','get_args',
+  'range','min','max','clamp','ascii','chr','get_args','js_call',
 ];
 
 const BUILTIN_TYPES = new Set(['int','float','str','bool','bigi','bigf']);
